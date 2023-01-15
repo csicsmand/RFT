@@ -7,6 +7,7 @@ A következőkben egy olyan rendszer fejlesztésén fogunk dolgozni, mely az ASD
 Az ASD Kft. szeretné könyebbé és átláthatóbbá tenni dolgozói számára a főraktár készleteinek lekérdezését, rendelés esetén pedig módosítását. A jelenlegi szofverük elavult és lassú, időt szeretnének megspólni. 
 
 ## Vágyálom rendszer
+Mindenképp egy olyan program megvalósítása a cél, mely megkönnyíti a dolgozók munkáját. Gyors és könnyű elérést biztosít a raktárban lévő termékek adataihoz. Ezek az adatokat egyidőben is módosíthatják azt egy REST API alkalmazás segítségével.
 
 ## Funkcionális követelmények
 
