@@ -15,6 +15,7 @@
 |Jogosultság|K6|Jogosultság rendszer|1.0|Jogosultság rendszer a CRUD műveletekhez (Kivéve a lekérdezés).|
 
 ## Jelenlegi üzleti folyamatok modellje
+Jelenleg egy elavult szoftver van használatban, mely lassú. Felülete bonyolult és nehezen betanítható a használata nem csak az idősebb, de még a fiatalabb kollégáknak is. Fenntartása ár-érték arányban nem éri meg többé a cégnek.
 
 ## Igényelt üzleti folyamatok modellje
 
