@@ -19,6 +19,13 @@
 ## Funkcionális terv
 
 ## Fizikai környezet
+|Név|Típus|
+|---|---|
+|Visual Studio Code|fejlesztőkörnyezet|
+|Visual Studio|fejlesztőkörnyezet|
+|PHPMyAdmin|adatbázis kliens|
+|Swagger|API dokumentáció|
+|Node JS|javasript szerver|
 
 ## Tesztterv
 
