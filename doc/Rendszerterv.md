@@ -15,6 +15,8 @@
 ## Tesztterv
 
 ## Telepítési terv
+Szerver: Node Js, Apache és PHPMyadmin.
+Kliens: Különösebb telepítést nem igényel.
 
 ## Karbantartási terv
 
