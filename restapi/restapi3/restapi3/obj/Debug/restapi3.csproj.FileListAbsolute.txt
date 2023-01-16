@@ -1,0 +1,67 @@
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\bin\Debug\restapi3.exe.config
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\bin\Debug\restapi3.exe
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\bin\Debug\restapi3.pdb
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\bin\Debug\RestSharp.dll
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\bin\Debug\RestSharp.xml
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\obj\Debug\restapi3.csprojResolveAssemblyReference.cache
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\obj\Debug\restapi3.Form1.resources
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\obj\Debug\restapi3.Properties.Resources.resources
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\obj\Debug\restapi3.csproj.GenerateResource.Cache
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\obj\Debug\restapi3.exe
+D:\!EKF\Interneteszkozei\2018\restapi3\restapi3\obj\Debug\restapi3.pdb
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\bin\Debug\restapi3.exe.config
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\bin\Debug\restapi3.exe
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\bin\Debug\restapi3.pdb
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\bin\Debug\RestSharp.dll
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\bin\Debug\RestSharp.xml
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.AssemblyReference.cache
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.Form1.resources
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.Properties.Resources.resources
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.GenerateResource.cache
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.CoreCompileInputs.cache
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.CopyComplete
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.exe
+D:\Egyetem\SZOP BEAD\GYAKRA\restapi\restapi3\restapi3\obj\Debug\restapi3.pdb
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\bin\Debug\restapi3.exe.config
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\bin\Debug\restapi3.exe
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\bin\Debug\restapi3.pdb
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\bin\Debug\RestSharp.dll
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\bin\Debug\RestSharp.xml
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.AssemblyReference.cache
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.Properties.Resources.resources
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.GenerateResource.cache
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.CoreCompileInputs.cache
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.csproj.CopyComplete
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.exe
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.pdb
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.FoKepernyo.resources
+D:\XAMPP\htdocs\restapi\restapi3\restapi3\obj\Debug\restapi3.Bejelentkezes.resources
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\bin\Debug\restapi3.exe.config
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\bin\Debug\restapi3.exe
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\bin\Debug\restapi3.pdb
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\bin\Debug\RestSharp.dll
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\bin\Debug\RestSharp.xml
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.csproj.AssemblyReference.cache
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.Bejelentkezes.resources
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.FoKepernyo.resources
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.Properties.Resources.resources
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.csproj.GenerateResource.cache
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.csproj.CoreCompileInputs.cache
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.csproj.CopyComplete
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.exe
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.pdb
+D:\XAMPP\htdocs\restapi_vizsga\restapi3\restapi3\obj\Debug\restapi3.PHPcs.resources
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\bin\Debug\restapi3.exe.config
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\bin\Debug\restapi3.exe
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\bin\Debug\restapi3.pdb
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\bin\Debug\RestSharp.dll
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\bin\Debug\RestSharp.xml
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.csproj.AssemblyReference.cache
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.Bejelentkezes.resources
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.FoKepernyo.resources
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.Properties.Resources.resources
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.csproj.GenerateResource.cache
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.csproj.CoreCompileInputs.cache
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.csproj.CopyComplete
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.exe
+D:\Egyetem\SZOP\RESTAPI - NODE, OPENAPI, C#_KLIENS\restapi3\restapi3\obj\Debug\restapi3.pdb
