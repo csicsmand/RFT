@@ -48,5 +48,16 @@ namespace restapi3
                     MessageBox.Show("Hiba az adatok lekérése során!");
                 }
             }
+            
+       private void Kilépés_Click(object sender, EventArgs e)
+        {
+            if (bejelentkezve)
+            {
+                bejelentkezve = false;
+                MessageBox.Show("Sikeresen kilépett!");
+            }
+            else
+                MessageBox.Show("Nincs bejelentkezve!");
+
     }
 }
