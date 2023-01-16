@@ -58,6 +58,17 @@ namespace restapi3
             }
             else
                 MessageBox.Show("Nincs bejelentkezve!");
+                
+        }
+        
+       public class Termek
+        {
+
+            public int id { get; set; }
+            public String nev { get; set; }
+            public int darab { get; set; }
+            public int ar { get; set; }
+        }
 
     }
 }
