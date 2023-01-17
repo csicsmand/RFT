@@ -44,3 +44,17 @@ app.get('/termek', function (req, res) {
 
 	});
 });
+
+app.get("/termek/:id", function (req, res) {
+	//console.log(req);
+	connection.query(
+	  "select * from termek where id=?",
+	  [req.params.id],
+	  function (error, results, fields) {
+		if (results.length === 0)
+			res.sendStatus(400);
+		else 
+			res.json(results);
+	  }
+	);
+  });
