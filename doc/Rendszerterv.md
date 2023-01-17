@@ -49,6 +49,12 @@ Admin:
 |Node JS|javasript szerver|
 
 ## Tesztterv
+A projekt elkészítése során folyamatos tesztelésre van szükség, melynek célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenőrzése. Tesztelni kell a back-end részt, az adminisztrátori funkciók működését. Tesztelni kell a dizájn minden elemét. Tesztelni kell az adatbázis megfelelő működését, értjük ez alatt az adatok helyes tárolását stb.
+
+Alfa teszt: Meglévő funkcióknak a klienssel. A tesztet a fejlesztők végzik.
+
+Béta teszt: Ezt a tesztet nem a fejlesztők végzik. A kliens funkciói. 
+
 
 ## Telepítési terv
 Szerver: Node Js, Apache és PHPMyadmin.
