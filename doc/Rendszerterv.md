@@ -3,6 +3,19 @@
 ## A rendszer célja
 
 ## Projektterv
+SZEREPKÖRÖK
+
+SZERVER:
+- Boros Balázs
+- Budai Vera
+- Csicsman Dominika
+- Gasparovics Adrienn 
+
+KLIENS: 
+- Boros Balázs
+- Budai Vera
+- Csicsman Dominika
+- Gasparovics Adrienn 
 
 ## Üzleti folyamatok modellje
 
