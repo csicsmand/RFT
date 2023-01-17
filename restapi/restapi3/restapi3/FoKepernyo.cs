@@ -82,6 +82,13 @@ namespace restapi3
                 MessageBox.Show("Nincs bejelentkezve!");
                 
         }
+        private void ID_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar != '\b')
+            {
+                e.Handled = !char.IsNumber(e.KeyChar);
+            }
+        }
         
        public class Termek
         {
