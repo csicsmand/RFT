@@ -89,6 +89,14 @@ namespace restapi3
                 e.Handled = !char.IsNumber(e.KeyChar);
             }
         }
+
+        private void AddNev_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar != '\b')
+            {
+                e.Handled = !char.IsNumber(e.KeyChar);
+            }
+        }
         
        public class Termek
         {
