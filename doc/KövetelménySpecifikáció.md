@@ -10,6 +10,9 @@ Az ASD Kft. szeretné könyebbé és átláthatóbbá tenni dolgozói számára 
 Mindenképp egy olyan program megvalósítása a cél, mely megkönnyíti a dolgozók munkáját. Gyors és könnyű elérést biztosít a raktárban lévő termékek adataihoz. Ezek az adatokat egyidőben is módosíthatják azt egy REST API alkalmazás segítségével.
 
 ## Funkcionális követelmények
+Ideális esetben az ASD Kft. dolgozói képesek valós időben nyomon követni a raktár tartalmát. Adminisztrátori joggal akár módosítás és törlés is eszközölhető.
+ADMIN: A program használatakor Ő képes módosítani illetve törölni az adatbázis tartalmát. Bejelentkezés szükséges és ezek után lesznek elérhetők ezek a funkciók.
+FELHASZNÁLÓ: A program használatakor lekérdezni képes. Az összes termék vagy pedig az id alapján tud listázni, így megtekinteni, mi van aktuálisan a raktárban.
 
 ## Rendszerre vonatkozó törvények, szabványok, ajánlások
 
