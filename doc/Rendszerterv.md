@@ -30,6 +30,14 @@ KLIENS:
 |Jogosultság|K6|Jogosultság rendszer|1.0|Jogosultság rendszer a CRUD műveletekhez (Kivéve a lekérdezés).|
 
 ## Funkcionális terv
+A rendszerben 2 szerepkört tudunk megkülönböztetni. Admint és Usert.
+User:
+- Nem igényel bejelentkezést.
+- Le tudja kérdezni az adatokat.
+
+Admin:
+- Igényel bejelentkezést.
+- Le tudja kérdezni az adatokat, módosítani és törölni.
 
 ## Fizikai környezet
 |Név|Típus|
