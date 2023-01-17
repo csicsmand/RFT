@@ -15,6 +15,20 @@ ADMIN: A program használatakor Ő képes módosítani illetve törölni az adat
 FELHASZNÁLÓ: A program használatakor lekérdezni képes. Az összes termék vagy pedig az id alapján tud listázni, így megtekinteni, mi van aktuálisan a raktárban.
 
 ## Rendszerre vonatkozó törvények, szabványok, ajánlások
+A rendszer felhasználói adatokat tárol, amit az Európai Unió területén a GDPR (General Data Protection Regulation) nevű rendelet szabályozza. E rendelt alapján az érintett felhasználók jogai a következők:
+
+- Átlátható tájékoztatáshoz való jog
+- Hozzáféréshez való jog
+- Helyesbítéshez való jog
+- Törléshez és elfeledtetéshez való jog
+- Korlátozáshoz való jog
+- Adathordozhatósághoz való jog
+- Tiltakozáshoz való jog
+- Automatikus döntéshozatal elutasításához való jog
+
+Adatkezelési nyilatkozat:
+
+Az Adatkezelési ‌Nyilatkozat kialakítása során figyelembe vettük a vonatkozó hatályos jogszabályokat, illetve a fontosabb nemzetközi ajánlásokat. Ezekre megfelel az alábbi jogszabályoknak: Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény; Az elektronikus ‌hírközlésről szóló 2003. évi C. törvény; Az elektronikus kereskedelemről szóló 2001. évi CVIII. törvény előírásainak; Az "Online Privacy Alliance" ajánlásainak.
 
 ## Jelenlegi üzleti folyamatok modellje
 
