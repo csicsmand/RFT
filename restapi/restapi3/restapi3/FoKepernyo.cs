@@ -48,6 +48,28 @@ namespace restapi3
                     MessageBox.Show("Hiba az adatok lekérése során!");
                 }
             }
+
+        if (Funkciok.SelectedItem.Equals("DELETE(ID)"))
+            {
+                if (bejelentkezve)
+                {
+                    try
+                    {
+                        string temp = "http://127.0.0.1:3000/termek/" + ID.Text;
+                        var client = new RestClient(temp);
+                        var request = new RestRequest(Method.DELETE);
+                        IRestResponse response = client.Execute(request);
+                    }
+                    catch (Exception)
+                    {
+                        MessageBox.Show("Hiba az adat törlése során!");
+                    }
+                }
+                else
+                    MessageBox.Show("Bejelentkezés szükséges!");
+
+            }
+        }
             
        private void Kilépés_Click(object sender, EventArgs e)
         {
