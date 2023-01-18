@@ -27,6 +27,35 @@ namespace restapi3
         }
         
         if (Funkciok.SelectedItem.Equals("GET(ID)"))
+		if (Funkciok.SelectedItem.Equals("GET")) //KÉSZ
+            {
+                try
+                {
+                    Visszaad.Items.Add("GET LEKÉRDEZÉS:");
+                    var client = new RestClient("http://127.0.0.1:3000/termek/");
+                    var request = new RestRequest(Method.GET);
+                    request.RequestFormat = DataFormat.Json;
+
+                    IRestResponse<List<Termek>> response = client.Execute<List<Termek>>(request);
+                    var content = response.Content;
+                    foreach (Termek emp in response.Data)
+                    {
+                        Visszaad.Items.Add("ID: " + emp.id + ", NÉV: " + emp.nev + ", DARAB: " + emp.darab + ", ÁR:." + emp.ar + " HUF");
+                    }
+
+                    /*foreach (Termek ter in response.Data)
+                    {
+                        Visszaad2.DataSource = response.Data;
+                        Visszaad2.Refresh();
+                    }*/
+                }
+                catch (Exception)
+                {
+
+                    MessageBox.Show("Hiba az adatok lekérése során!");
+                }
+            }
+		
             {
                 try
                 {
