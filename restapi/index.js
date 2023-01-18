@@ -77,3 +77,12 @@ app.post('/termek', function (req, res) {
 	});
 });
 
+//Update rekord
+app.put('/termek/:id', function (req, res){
+	console.log(req);
+	var postData = req.body;
+	connection.query('UPDATE termek SET ? WHERE id=?', [postData, req.params.id], function (error, results, fields) {
+	  if (error) throw error;
+	  res.end(JSON.stringify(results));
+	});
+});
