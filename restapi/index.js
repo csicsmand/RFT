@@ -67,3 +67,13 @@ app.delete('/termek/:id', function (req, res) {
 	   res.end('Törlés ok');
 	 });
   });
+
+//Új rekord hozzáadása
+app.post('/termek', function (req, res) {
+   var postData  = req.body;
+   connection.query('INSERT INTO termek SET ?', postData, function (error, results, fields) {
+	  if (error) throw error;
+	  res.end(JSON.stringify(results));
+	});
+});
+
