@@ -114,6 +114,73 @@ namespace restapi3
             }
         }
 
+        private void UPDATE_Click(object sender, EventArgs e)
+        {
+            if (bejelentkezve)
+            {
+                try
+                {
+                    string temp = "http://127.0.0.1:3000/termek/" + ID.Text;
+                    var client = new RestClient(temp);
+                    var request = new RestRequest(Method.PUT);
+                    request.RequestFormat = DataFormat.Json;
+                    request.AddBody(new Termek
+                    {
+                        id = int.Parse(ID.Text),
+                        nev = AddNev.Text,
+                        darab = int.Parse(AddDarab.Text),
+                        ar = int.Parse(AddAr.Text)
+                    });
+
+                    IRestResponse response = client.Execute(request);
+                    var content = response.Content;
+                    //Visszaad2.Text = content;
+                }
+                catch (Exception)
+                {
+
+                    MessageBox.Show("Hiba az adatok frissítése során!");
+                }
+            }
+            else
+                MessageBox.Show("Bejelentkezés szükséges!");
+        }
+
+        private void CLEAR_Click(object sender, EventArgs e) 
+        {
+            MessageBox.Show("Eddigi tartalom törölve!");
+            Visszaad.Items.Clear();
+        }
+
+        private void ADD_Click(object sender, EventArgs e) 
+        {
+            if (bejelentkezve)
+            {
+                try
+                {
+                    var client = new RestClient("http://127.0.0.1:3000/termek");
+                    var request = new RestRequest(Method.POST);  //Create
+                    request.RequestFormat = DataFormat.Json;
+                    request.AddBody(new Termek
+                    {
+                        id = int.Parse(ID.Text),
+                        nev = AddNev.Text,
+                        darab = int.Parse(AddDarab.Text),
+                        ar = int.Parse(AddAr.Text)
+                    });
+                    IRestResponse response = client.Execute(request);
+                }
+                catch (Exception)
+                {
+
+                    MessageBox.Show("Hiba az adatok hozzáadása során!");
+                }
+            }
+            else
+                MessageBox.Show("Bejelentkezés szükséges!");
+
+        }
+
         
        public class Termek
         {
