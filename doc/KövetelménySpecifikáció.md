@@ -33,6 +33,7 @@ Az Adatkezelési ‌Nyilatkozat kialakítása során figyelembe vettük a vonatk
 ## Jelenlegi üzleti folyamatok modellje
 
 ## Igényelt üzleti folyamatok modellje
+Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós időben változásokat kötni tudó rendszer a cél, melynek használata könnyen betanulható. Gyors és innovatív megoldást szeretnénk, mely megkönnyíti, mind dolgozóink, mind a vezetőség munkáját.
 
 ## Követelménylista
 |MODUL|ID|NÉV|V.|LEÍRÁS|
