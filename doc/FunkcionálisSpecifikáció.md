@@ -27,5 +27,6 @@ ADMIN: A program használatakor Ő képes módosítani illetve törölni az adat
 FELHASZLÓ: A program használatakor lekérdezni képes. Az összes termék vagy pedig az id alapján tud listázni, így megtekinteni, mi van aktuálisan a raktárban.
 
 ## Forgatókönyv
+Ideális esetben az ASD Kft. dolgozói képesek valós időben nyomon követni a raktár tartalmát. Adminisztrátori joggal akár módosítás és törlés is eszközölhető.
 
 ## Fogalomszótár
