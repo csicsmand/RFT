@@ -26,7 +26,6 @@ namespace restapi3
             Funkciok.SelectedItem = "GET";
         }
         
-        if (Funkciok.SelectedItem.Equals("GET(ID)"))
 		if (Funkciok.SelectedItem.Equals("GET")) //KÉSZ
             {
                 try
@@ -56,6 +55,21 @@ namespace restapi3
                 }
             }
 		
+		private void Bejelentkezés_Click(object sender, EventArgs e)
+        {
+            if (bejelentkezve)
+            {
+                MessageBox.Show("Már be vagy jelentkezve!");
+            }
+            else
+            {
+                Bejelentkezes bejelent = new Bejelentkezes();
+                bejelent.Show();
+            }
+
+        }
+        
+		if (Funkciok.SelectedItem.Equals("GET(ID)"))
             {
                 try
                 {
@@ -209,6 +223,7 @@ namespace restapi3
                 MessageBox.Show("Bejelentkezés szükséges!");
 
         }
+
 
         
        public class Termek
