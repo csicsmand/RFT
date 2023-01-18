@@ -58,3 +58,12 @@ app.get("/termek/:id", function (req, res) {
 	  }
 	);
   });
+
+  //Adott ID-jű dolgozó törlése
+app.delete('/termek/:id', function (req, res) {
+	console.log(req.body);
+	connection.query('DELETE FROM termek WHERE id=?', [req.params.id], function (error, results, fields) {
+	   if (error) throw error;
+	   res.end('Törlés ok');
+	 });
+  });
