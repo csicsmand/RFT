@@ -30,6 +30,6 @@ FELHASZLÓ: A program használatakor lekérdezni képes. Az összes termék vagy
 Ideális esetben az ASD Kft. dolgozói képesek valós időben nyomon követni a raktár tartalmát. Adminisztrátori joggal akár módosítás és törlés is eszközölhető.
 
 ## Fogalomszótár
-PC: personal computer (személyi számítógép)
-CRUD: CREATE, READ, UPDATE és DELETE műveletek összefogó neve
+PC: personal computer (személyi számítógép)  
+CRUD: CREATE, READ, UPDATE és DELETE műveletek összefogó neve  
 UX: User Experience
