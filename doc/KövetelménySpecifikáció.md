@@ -47,6 +47,6 @@ Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós id
 |Jogosultság|K6|Jogosultság rendszer|1.0|Jogosultság rendszer a CRUD műveletekhez (Kivéve a lekérdezés).|
 
 ## Fogalomtár
-PC: personal computer (személyi számítógép)
-CRUD: CREATE, READ, UPDATE és DELETE műveletek összefogó neve
+PC: personal computer (személyi számítógép)  
+CRUD: CREATE, READ, UPDATE és DELETE műveletek összefogó neve  
 UX: User Experience
