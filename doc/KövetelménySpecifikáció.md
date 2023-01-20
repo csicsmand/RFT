@@ -4,7 +4,8 @@
 A következőkben egy olyan rendszer fejlesztésén fogunk dolgozni, mely az ASD Kft. munkáját könnyíti meg. Célunk ezzel a projekttel a régi és elavult raktározási programjuk kiváltása. A dolgozók elérhetik a főraktár készleteit és akár egyidőben is módosíthatják azt egy REST API alkalmazás segítségével. Nem tervezünk több platformon való megjelenést, mivel nem tartjuk szükségesnek egyéb eszközön (tab, telefon) ennek a programnak az elérésrét, mert a cég csupán PC-ket biztosít a rendeléshez.
 
 ## Jelenlegi helyzet
-Az ASD Kft. szeretné könyebbé és átláthatóbbá tenni dolgozói számára a főraktár készleteinek lekérdezését, rendelés esetén pedig módosítását. A jelenlegi szofverük elavult és lassú, időt szeretnének megspórolni. 
+Az ASD Kft.-nél, sajnos jelenleg elég nehéz és kiszolgáltatott helyzetben vagyunk. Aktuális szoftverünk elavul, lassú, sebezhető és nehezen működtethető az új számítógépeken. Ez a program még 2004-ben készült, dolgozóink számára pedig egyre fejletebb PC-k állnak rendelkezésre, melyeken egyre körülményesebb megoldani ennek használatát. Habár fukcióit még ellátja, nem kap semmilyen frissítést. Az előző fejlesztőcéggel a karbantartási szerződés nem került meghosszabbításra és egyéb okok miatt már nem is fog.\
+Mivel hazai viszonylatban egy nagy értékesítő vállalatnak számítunk, így nem engedhetjük meg maguknak, hogy ilyen szoftvert használjunk. Az vezetőségünk és pénzügyi menedzsmentünk profitálóbbnak és hatékonyabbnak látta azt, ha egy új szoftvert rendelünk cégüktől. 
 
 ## Vágyálom rendszer
 Mi az  ASD Kft.-nél szeretnénk könyebbé és átláthatóbbá tenni dolgozóink számára a főraktár készleteinek megtekintését és ezeknek módosítását.\
