@@ -38,8 +38,8 @@ Adatkezelési nyilatkozat:
 Az Adatkezelési ‌Nyilatkozat kialakítása során figyelembe vettük a vonatkozó hatályos jogszabályokat, illetve a fontosabb nemzetközi ajánlásokat. Ezekre megfelel az alábbi jogszabályoknak: Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény; Az elektronikus ‌hírközlésről szóló 2003. évi C. törvény; Az elektronikus kereskedelemről szóló 2001. évi CVIII. törvény előírásainak; Az "Online Privacy Alliance" ajánlásainak.
 
 ## Jelenlegi üzleti folyamatok modellje
-Jelenleg egy elavult szoftver van használatban, mely lassú. Felülete bonyolult és nehezen betanítható a használata nem csak az idősebb, de még a fiatalabb kollégáknak is.\
-A bonyolult felület és a szoftver lassúsága mellett fontos azt is megemlíteni, hogy a cég frissítéseket sem kap többé, ami biztonsági kockázatokhoz is vezethet hosszútávon. Továbbá körülményes a szoftver futattása újabb harvereken, melyeknél nagyon sok támogatási hiba jött elő.\
+Jelenleg egy elavult szoftver van használatban, mely lassú. Felülete bonyolult és nehezen betanítható a használata nem csak az idősebb, de még a fiatalabb kollégáknak is.  
+A bonyolult felület és a szoftver lassúsága mellett fontos azt is megemlíteni, hogy a cég frissítéseket sem kap többé, ami biztonsági kockázatokhoz is vezethet hosszútávon. Továbbá körülményes a szoftver futattása újabb harvereken, melyeknél nagyon sok támogatási hiba jött elő.  
 Fenntartása ár-érték arányban nem éri meg többé nekünk.
 
 ## Igényelt üzleti folyamatok modellje
