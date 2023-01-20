@@ -10,11 +10,15 @@ Az ASD Kft. szeretné könyebbé és átláthatóbbá tenni dolgozói számára 
 |MODUL|ID|NÉV|V.|LEÍRÁS|
 |---|---|---|---|---|
 |Adatbázis|K1|Adatbázis|1.0|A program újraindítása során az adatok nem vesznek el.|
-|Szerver|K2|CRUD|1.0|CRUD műveletek megvalósítása a szerver részéről.|
-|Szerver|K3|SWAGGER|1.0|Interaktív dokumentáció.|
-|Kliens|K4|C# kliens kialakítása|1.0|A program felületének megtervezése UX szempontból. |
-|Kliens|K5|C# kliens megvalósítása|1.0|A program felületének megvalósítása. |
-|Jogosultság|K6|Jogosultság rendszer|1.0|Jogosultság rendszer a CRUD műveletekhez (Kivéve a lekérdezés).|
+|Szerver|K2|Adatbázis kapcsolat|1.0|Adatbázis összekapcsolása a szerverrel.|
+|Szerver|K3|CRUD|1.0|CRUD műveletek megvalósítása a szerver részéről.|
+|Szerver|K4|SWAGGER|1.0|Interaktív dokumentáció.|
+|Kliens|K5|C# kliens kialakítása|1.0|A program felületének megtervezése UX szempontból. |
+|Kliens|K6|C# kliens megvalósítása|1.0|A főképernyő megvalósítása. |
+|Kliens|K7|C# kliens megvalósítása|1.0|A menük megvalósítása. |
+|Kliens|K8|C# kliens megvalósítása|1.0|A bejelentkezés felület megvalósítása. |
+|Jogosultság|K9|Jogosultság rendszer|1.0|Jogosultság rendszer a CREATE, UPDATE, DELETE funkciókhoz.|
+|Jogosultság|K10|Jogosultság rendszer|1.0|Jogosultság rendszer a READ funkcióhoz.|
 
 ## Jelenlegi üzleti folyamatok modellje
 Jelenleg egy elavult szoftver van használatban, mely lassú. Felülete bonyolult és nehezen betanítható a használata nem csak az idősebb, de még a fiatalabb kollégáknak is. Fenntartása ár-érték arányban nem éri meg többé a cégnek.
