@@ -89,7 +89,7 @@ A rendszerhez szükség van egy adatbázis szerverre, jelen esetben a MySQL-t ha
 
 **Rest végpontok**
 |Név|Method|Eljárás|
-|---|---||---|
+|---|---|---|
 |TERMEK|GET|Összes termék lekérdezése|
 |TERMEK|GET|Lekérdezés azonosítóval|
 |TERMEK|POST|Új termék hozáadása|
