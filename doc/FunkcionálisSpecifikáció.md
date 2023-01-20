@@ -37,7 +37,7 @@ FELHASZLÓ: A program használatakor lekérdezni képes. Az összes termék vagy
   
 **FELHASZNÁLÓ**  
 1.: A "START" gomb lenyomásável kilistázza a raktár aktuális tartalmát
-
+  
 2.: A "Bejelentkezés" gombra kattintva megnyílik a bejelentkezőfelületünk, ahová a megfelelő felhasználónév és jelszó megadásával elérhetővé válnak az admin funkciók, mint az új tétel felvétele ("ADD"), tételk(ek) törlése, illetve a meglévő tétel adatainak módosítása ("UPDATE").
 
 3.: *Képernyő törlése:* Ezt a funkciót az admin, illetve a userek is használhatják. Akkor használjuk, ha már sok mindent csináltunk és átláthatatlan a munkafelületünk. Ekkor a "CLEAR" gombra kattintva minden eddigi kiírás eltűnik, de a tételek természetesen az adatbázisban maradnak, hiszen törölni csak az admin tud. 
