@@ -26,11 +26,32 @@ A bonyolult felület és a szoftver lassúsága mellett fontos azt is megemlíte
 Fenntartása ár-érték arányban nem éri meg többé nekünk.
 
 ## Igényelt üzleti folyamatok modellje
-Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós időben változásokat kötni tudó rendszer a cél, melynek használata könnyen betanulható. Gyors és innovatív megoldást szeretnénk, mely megkönnyíti, mind dolgozóink, mind a vezetőség munkáját.
+Az előzőekben leírt folyamatokat szeretnék optimalizálni. Korszerű szoftvert szeretnének. Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós időben változásokat kötni tudó rendszer a cél, melynek használata könnyen betanulható. Gyors és innovatív megoldás legyen, mely megkönnyíti, mind dolgozóik, mind a vezetőség munkáját. Ezt egy Rest Api alkalmazással fogjuk megvalósítani.\
+A könnyebb átláthatóság és a szoftver egyszerűsége, kezelésének könnyű megtanulhatósága minőségbeli változásokat is hozhat a cég életébe, hiszen csökkennek az adminisztrációs hibalehetőségek, illetve a folyamatos frissítésekkel biztonsíthatjuk a cég számára azt, hogy a szoftvertermék átadása után ne következhessen be végzetes hiba.\
+Tehát a előbbiekből levonható a következtetés, hogy a legfontosabb az igényelt folyamatok közül, az a hosszú távú támogatás és karbantartás.
 
-## Használati esetek
-ADMIN: A program használatakor Ő képes módosítani illetve törölni az adatbázis tartalmát. Bejelentkezés szükséges és ezek után lesznek elérhetők ezek a funkciók.
-FELHASZLÓ: A program használatakor lekérdezni képes. Az összes termék vagy pedig az id alapján tud listázni, így megtekinteni, mi van aktuálisan a raktárban.
+## Használati esetek  
+![Használati esetek](img/hasznalatiEset.png "Csicsman Dominika")  
+ADMIN: A program használatakor Ő képes módosítani illetve törölni az adatbázis tartalmát. Bejelentkezés szükséges és ezek után lesznek elérhetők ezek a funkciók.  
+FELHASZLÓ: A program használatakor lekérdezni képes. Az összes termék vagy pedig az id alapján tud listázni, így megtekinteni, mi van aktuálisan a raktárban.  
+  
+**FELHASZNÁLÓ**  
+1.: A "START" gomb lenyomásável kilistázza a raktár aktuális tartalmát
+
+2.: A "Bejelentkezés" gombra kattintva megnyílik a bejelentkezőfelületünk, ahová a megfelelő felhasználónév és jelszó megadásával elérhetővé válnak az admin funkciók, mint az új tétel felvétele ("ADD"), tételk(ek) törlése, illetve a meglévő tétel adatainak módosítása ("UPDATE").
+
+3.: *Képernyő törlése:* Ezt a funkciót az admin, illetve a userek is használhatják. Akkor használjuk, ha már sok mindent csináltunk és átláthatatlan a munkafelületünk. Ekkor a "CLEAR" gombra kattintva minden eddigi kiírás eltűnik, de a tételek természetesen az adatbázisban maradnak, hiszen törölni csak az admin tud. 
+Tétel törlése: Csak az admin használhatja ezt a funkciót. A tétel ID-ja megadása után a tétel törlésre fog kerülni az adatbázisból. Erre akkor lehet szükség, ha már egy adott terméket nem forgalmaz tovább a cég.  
+  
+**ADMIN**  
+1.:*Tétel adatainak módosítása:* Ha az admin elrontott valamilyen adatot a felvételkor, szerencsére nincs szükség arra, hogy kitörölje a tételt és újra felvegye, elég csak frissíteni az adatokat. Ez a funkció abban az esetben is használható, ha például változott a tétel ára, vagy már más mennyiség érhető el a raktában belőle. Ekkor az ID mezőbe beírjuk a tétel azonosítóját, a megváltoztatni kívánt adat mezőjébe pedig a már frissített adatot írjuk be, a többi tulajdonságot változatlanul hagyjuk. Az "UPDATE" gombra kattintva frissítésre kerülnek az adatok.
+
+2.:*Lekérdezés lefuttatása:* Erre akkor lehet szükség, ha valamilyen információt szeretnénk megtudni az adott tételről (általában ez az ár, vagy az elérhető mennyiség). Ezt a funkciót az admin, illetve a userek is használhatják. Az ablak bal felső részében egy legördülő listából választhatjuk ki, hogy ID szerint szeretnénk valamit konkrétan lekérdezni, vagy az összes tételt szeretnénk kilistázni. A kért adat megadása után a "START" gombra kattintva megkapjuk a kért információt.
+
+## Képernyőtervek  
+![Képernyőterv](img/kepernyoTerv001.png "Gasparovics Adrienn ")  
+![Képernyőterv](img/kepernyoTerv002.png "Gasparovics Adrienn ")  
+![Képernyőterv](img/kepernyoTerv003.png "Gasparovics Adrienn ")
 
 ## Forgatókönyv
 Ideális esetben az ASD Kft. dolgozói képesek valós időben nyomon követni a raktár tartalmát. Adminisztrátori joggal akár módosítás és törlés is eszközölhető.
@@ -38,4 +59,12 @@ Ideális esetben az ASD Kft. dolgozói képesek valós időben nyomon követni a
 ## Fogalomszótár
 PC: personal computer (személyi számítógép)  
 CRUD: CREATE, READ, UPDATE és DELETE műveletek összefogó neve  
-UX: User Experience
+UX: User Experience  
+Admin: az a regisztrált felhasználó, aki a megfelelő felhasználónévvel, illetve jelszóval bejelentkezve hozzáférhet magasabb szintű funkciókhoz  
+Adminfunkciók: az admin számára elérhető egyedi funkciók: új tétel felvétele az adatbázisba, tétel törlése, tétel adatainak módosítása  
+Felhasználó (user): az a személy, akinek nincs regisztrációja, így csak a lekérdező alap funkciókhoz fér hozzá, jellemzően ilyen user esetünkben az az általános dolgozó, aki használja  rendszerünket  
+Felhasználónév: az admin által bejelentkezéskor használt azonosító, ami megkülönbözteti őt a usertől, illetve ezáltal hozzáférhet több funkcióhoz is  
+Jelszó: egy egyedi biztonsági kód, mely biztosítja, hogy csak az arra jogosult szemályek léphessenek be az adminisztrációs felületre  
+ID: az adatbázisba került termék egyedi azonosítója, mely alapján lehet keresni, illetve lehet rá hovatkozni  
+Név: az adatbázisba került termék neve, ezalapján is lehet rá hivatkozni, de nem ajánlott, mivel ez nem egyedi  
+Ár: az adott tétel pénzben kifejezett értéke (esetünkben magyar forint)
