@@ -44,8 +44,8 @@ FELHASZLÓ: A program használatakor lekérdezni képes. Az összes termék vagy
 Tétel törlése: Csak az admin használhatja ezt a funkciót. A tétel ID-ja megadása után a tétel törlésre fog kerülni az adatbázisból. Erre akkor lehet szükség, ha már egy adott terméket nem forgalmaz tovább a cég.  
   
 **ADMIN**  
-1.:*Tétel adatainak módosítása:* Ha az admin elrontott valamilyen adatot a felvételkor, szerencsére nincs szükség arra, hogy kitörölje a tételt és újra felvegye, elég csak frissíteni az adatokat. Ez a funkció abban az esetben is használható, ha például változott a tétel ára, vagy már más mennyiség érhető el a raktában belőle. Ekkor az ID mezőbe beírjuk a tétel azonosítóját, a megváltoztatni kívánt adat mezőjébe pedig a már frissített adatot írjuk be, a többi tulajdonságot változatlanul hagyjuk. Az "UPDATE" gombra kattintva frissítésre kerülnek az adatok.
-
+1.:*Tétel adatainak módosítása:* Ha az admin elrontott valamilyen adatot a felvételkor, szerencsére nincs szükség arra, hogy kitörölje a tételt és újra felvegye, elég csak frissíteni az adatokat. Ez a funkció abban az esetben is használható, ha például változott a tétel ára, vagy már más mennyiség érhető el a raktában belőle. Ekkor az ID mezőbe beírjuk a tétel azonosítóját, a megváltoztatni kívánt adat mezőjébe pedig a már frissített adatot írjuk be, a többi tulajdonságot változatlanul hagyjuk. Az "UPDATE" gombra kattintva frissítésre kerülnek az adatok.  
+  
 2.:*Lekérdezés lefuttatása:* Erre akkor lehet szükség, ha valamilyen információt szeretnénk megtudni az adott tételről (általában ez az ár, vagy az elérhető mennyiség). Ezt a funkciót az admin, illetve a userek is használhatják. Az ablak bal felső részében egy legördülő listából választhatjuk ki, hogy ID szerint szeretnénk valamit konkrétan lekérdezni, vagy az összes tételt szeretnénk kilistázni. A kért adat megadása után a "START" gombra kattintva megkapjuk a kért információt.
 
 ## Képernyőtervek  
