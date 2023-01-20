@@ -54,6 +54,8 @@ Admin:
 |Swagger|API dokumentáció|
 |Node JS|javasript szerver|
 
+## Architekturális terv
+
 ## Tesztterv
 A projekt elkészítése során folyamatos tesztelésre van szükség, melynek célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenőrzése. Tesztelni kell a back-end részt, az adminisztrátori funkciók működését. Tesztelni kell a dizájn minden elemét. Tesztelni kell az adatbázis megfelelő működését, értjük ez alatt az adatok helyes tárolását stb.
 
