@@ -38,20 +38,29 @@ Adatkezelési nyilatkozat:
 Az Adatkezelési ‌Nyilatkozat kialakítása során figyelembe vettük a vonatkozó hatályos jogszabályokat, illetve a fontosabb nemzetközi ajánlásokat. Ezekre megfelel az alábbi jogszabályoknak: Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény; Az elektronikus ‌hírközlésről szóló 2003. évi C. törvény; Az elektronikus kereskedelemről szóló 2001. évi CVIII. törvény előírásainak; Az "Online Privacy Alliance" ajánlásainak.
 
 ## Jelenlegi üzleti folyamatok modellje
-Jelenleg egy elavult szoftver van használatban, mely lassú. Felülete bonyolult és nehezen betanítható a használata nem csak az idősebb, de még a fiatalabb kollégáknak is. Fenntartása ár-érték arányban nem éri meg többé a cégnek.
+Jelenleg egy elavult szoftver van használatban, mely lassú. Felülete bonyolult és nehezen betanítható a használata nem csak az idősebb, de még a fiatalabb kollégáknak is.\
+A bonyolult felület és a szoftver lassúsága mellett fontos azt is megemlíteni, hogy a cég frissítéseket sem kap többé, ami biztonsági kockázatokhoz is vezethet hosszútávon. Továbbá körülményes a szoftver futattása újabb harvereken, melyeknél nagyon sok támogatási hiba jött elő.\
+Fenntartása ár-érték arányban nem éri meg többé nekünk.
 
 ## Igényelt üzleti folyamatok modellje
-Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós időben változásokat kötni tudó rendszer a cél, melynek használata könnyen betanulható. Gyors és innovatív megoldást szeretnénk, mely megkönnyíti, mind dolgozóink, mind a vezetőség munkáját.
+Az előzőekben leírt folyamatokat szerepnénk optimalizálni. Korszerű szoftvert szeretnénk. Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós időben változásokat kötni tudó rendszer a cél, melynek használata könnyen betanulható. Gyors és innovatív megoldás legyen, mely megkönnyíti, mind dolgozóink, mind a vezetőség munkáját.\
+A könnyebb átláthatóság és a szoftver egyszerűsége, kezelésének könnyű megtanulhatósága minőségbeli változásokat is hozhat a cégunk életébe, hiszen csökkennek az adminisztrációs hibalehetőségek, illetve a folyamatos frissítésekkel biztonsíthatjuk azt, hogy a szoftvertermék átadása után ne következhessen be végzetes hiba.\
+Tehát a következőekből levonható a következtetés, hogy a legfontosabb az igényelt folyamatok közül, az a hosszú távú támogatás és karbantartás.
 
 ## Követelménylista
 |MODUL|ID|NÉV|V.|LEÍRÁS|
 |---|---|---|---|---|
 |Adatbázis|K1|Adatbázis|1.0|A program újraindítása során az adatok nem vesznek el.|
-|Szerver|K2|CRUD|1.0|CRUD műveletek megvalósítása a szerver részéről.|
-|Szerver|K3|SWAGGER|1.0|Interaktív dokumentáció.|
-|Kliens|K4|C# kliens kialakítása|1.0|A program felületének megtervezése UX szempontból. |
-|Kliens|K5|C# kliens megvalósítása|1.0|A program felületének megvalósítása. |
-|Jogosultság|K6|Jogosultság rendszer|1.0|Jogosultság rendszer a CRUD műveletekhez (Kivéve a lekérdezés).|
+|Szerver|K2|Adatbázis kapcsolat|1.0|Adatbázis összekapcsolása a szerverrel.|
+|Szerver|K3|CRUD|1.0|CRUD műveletek megvalósítása a szerver részéről.|
+|Szerver|K4|SWAGGER|1.0|Interaktív dokumentáció.|
+|Kliens|K5|C# kliens kialakítása|1.0|A program felületének megtervezése UX szempontból. |
+|Kliens|K6|C# kliens megvalósítása|1.0|A főképernyő megvalósítása. |
+|Kliens|K7|C# kliens megvalósítása|1.0|A menük megvalósítása. |
+|Kliens|K8|C# kliens megvalósítása|1.0|A bejelentkezés felület megvalósítása. |
+|Jogosultság|K9|Jogosultság rendszer|1.0|Jogosultság rendszer a CREATE, UPDATE, DELETE funkciókhoz.|
+|Jogosultság|K10|Jogosultság rendszer|1.0|Jogosultság rendszer a READ funkcióhoz.|
+
 
 ## Fogalomtár
 PC: personal computer (személyi számítógép)  
