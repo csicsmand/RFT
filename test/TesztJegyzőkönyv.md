@@ -20,3 +20,4 @@ Az API végpontok tesztelése során a Postman és a Fiddler csak GET kérést h
 | Modul | Név | Dátum | Működik-e? | Megjegyzés |
 |-------|------|------|--------------------------|-----------|
 |Bejelenkező felület|Csicsman Dominika|2023.01.17.|Igen|Megfelelően működik|
+|Főoldal felület|Csicsman Dominika|2023.01.17.|Igen|Megfelelően működik|
