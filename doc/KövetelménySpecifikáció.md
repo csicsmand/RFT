@@ -43,8 +43,8 @@ A bonyolult felület és a szoftver lassúsága mellett fontos azt is megemlíte
 Fenntartása ár-érték arányban nem éri meg többé nekünk.
 
 ## Igényelt üzleti folyamatok modellje
-Az előzőekben leírt folyamatokat szerepnénk optimalizálni. Korszerű szoftvert szeretnénk. Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós időben változásokat kötni tudó rendszer a cél, melynek használata könnyen betanulható. Gyors és innovatív megoldás legyen, mely megkönnyíti, mind dolgozóink, mind a vezetőség munkáját.\
-A könnyebb átláthatóság és a szoftver egyszerűsége, kezelésének könnyű megtanulhatósága minőségbeli változásokat is hozhat a cégunk életébe, hiszen csökkennek az adminisztrációs hibalehetőségek, illetve a folyamatos frissítésekkel biztonsíthatjuk azt, hogy a szoftvertermék átadása után ne következhessen be végzetes hiba.\
+Az előzőekben leírt folyamatokat szerepnénk optimalizálni. Korszerű szoftvert szeretnénk. Manapság a raktározás nem kellene, hogy lassú folyamat legyen. Egy valós időben változásokat kötni tudó rendszer a cél, melynek használata könnyen betanulható. Gyors és innovatív megoldás legyen, mely megkönnyíti, mind dolgozóink, mind a vezetőség munkáját.  
+A könnyebb átláthatóság és a szoftver egyszerűsége, kezelésének könnyű megtanulhatósága minőségbeli változásokat is hozhat a cégunk életébe, hiszen csökkennek az adminisztrációs hibalehetőségek, illetve a folyamatos frissítésekkel biztonsíthatjuk azt, hogy a szoftvertermék átadása után ne következhessen be végzetes hiba.  
 Tehát a következőekből levonható a következtetés, hogy a legfontosabb az igényelt folyamatok közül, az a hosszú távú támogatás és karbantartás.
 
 ## Követelménylista
