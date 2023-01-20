@@ -1,7 +1,10 @@
 # Követelmény specifikáció
 
 ## Áttekintés
-A következőkben egy olyan rendszer fejlesztésén fogunk dolgozni, mely az ASD Kft. munkáját könnyíti meg. Célunk ezzel a projekttel a régi és elavult raktározási programjuk kiváltása. A dolgozók elérhetik a főraktár készleteit és akár egyidőben is módosíthatják azt egy REST API alkalmazás segítségével. Nem tervezünk több platformon való megjelenést, mivel nem tartjuk szükségesnek egyéb eszközön (tab, telefon) ennek a programnak az elérésrét, mert a cég csupán PC-ket biztosít a rendeléshez.
+Egy olyan rendszer fejlesztését várjuk el, mely az ASD Kft. azaz a mi munkánkat könnyíti meg. Célunk ezzel a projekttel a régi raktározási programunk kiváltása, mely sajnos a jelenlegi technológiák mellett igencsak elavult. Karbantartása nem biztosított és az új hardvereken egyre nehezebb működtetni.\ 
+Szeretnénk, ha a dolgozóink elérnék a főraktár készleteit. Továbbá autentikációhoz szeretnénk kötni az egyéb módosító műveletek használatát.\
+Ez az új program a  gördülékeny munkát biztosítaná számunkra, mely nem csak sokkal gyorsabb és olajozottabb lenne, hanem a cégnek anyagi szempontból egy jó befektetésnek számítana. A tuladonunkban lévő számítástechnikai eszközök jobban kilennének használva.\
+Mivel a hazai piacon egy nagy cégnek számítunk és fontos számunkra az ügyfeleink véleménye, jelenlegi rendszerünk használatával attól félünk, hogy a jó hírnevünket kockáztatánk. Mint fentebb említettem a mostani program karbantartása már nem biztosított, így biztonsági szempontból sebezhetőek vagyunk.
 
 ## Jelenlegi helyzet
 Az ASD Kft.-nél, sajnos jelenleg elég nehéz és kiszolgáltatott helyzetben vagyunk. Aktuális szoftverünk elavul, lassú, sebezhető és nehezen működtethető az új számítógépeken. Ez a program még 2004-ben készült, dolgozóink számára pedig egyre fejletebb PC-k állnak rendelkezésre, melyeken egyre körülményesebb megoldani ennek használatát. Habár fukcióit még ellátja, nem kap semmilyen frissítést. Az előző fejlesztőcéggel a karbantartási szerződés nem került meghosszabbításra és egyéb okok miatt már nem is fog.\
