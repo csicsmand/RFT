@@ -83,6 +83,25 @@ A kliens egy C# kliens lesz, melynek a Form részével gyorsan és könnyen alak
   
 
 ## Architekturális terv
+*Szerver*
+
+A rendszerhez szükség van egy adatbázis szerverre, jelen esetben a MySQL-t használjuk. A kliens oldali programokat egy Node JS alapú REST API szolgálja ki, ez csatlakozik az adatbázis szerverhez. A kliensekkel JSON objektumokkal kommunikál.
+
+**Rest végpontok**
+|Név|Method|Eljárás|
+|---|---||---|
+|TERMEK|GET|Összes termék lekérdezése|
+|TERMEK|GET|Lekérdezés azonosítóval|
+|TERMEK|POST|Új termék hozáadása|
+|TERMEK|PUT|Meglévó termék módosítása|
+|TERMEK|DELETE|Meglévő termék törlése|
+
+*Klienc*
+C# programmal készítjül el Formokat használva.
+
+## Adatbázisterv
+
+![Használati esetek](img/adatbazisTerv.drawio.png "Csicsman Dominika")
 
 ## Tesztterv
 A projekt elkészítése során folyamatos tesztelésre van szükség, melynek célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenőrzése. Tesztelni kell a back-end részt, az adminisztrátori funkciók működését. Tesztelni kell a dizájn minden elemét. Tesztelni kell az adatbázis megfelelő működését, értjük ez alatt az adatok helyes tárolását stb.
