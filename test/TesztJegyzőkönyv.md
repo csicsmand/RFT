@@ -21,3 +21,7 @@ Az API végpontok tesztelése során a Postman és a Fiddler csak GET kérést h
 |-------|------|------|--------------------------|-----------|
 |Bejelenkező felület|Csicsman Dominika|2023.01.17.|Igen|Megfelelően működik|
 |Főoldal felület|Csicsman Dominika|2023.01.17.|Igen|Megfelelően működik|
+|START GOMB|Csicsman Dominika|2023.01.17.|Nem|Javítva: 2023.01.17.|
+|CLEAR GOMB|Csicsman Dominika|2023.01.17.|Igen|Megfelelően működik|
+|UPDATE GOMB|Csicsman Dominika|2023.01.17.|Igen|Megfelelően működik|
+|DELETE GOMB|Csicsman Dominika|2023.01.17.|Igen|Megfelelően működik|
