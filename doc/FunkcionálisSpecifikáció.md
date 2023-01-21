@@ -61,6 +61,7 @@ Tétel törlése: Csak az admin használhatja ezt a funkciót. A tétel ID-ja me
 
 ## Forgatókönyv
 Ideális esetben az ASD Kft. dolgozói képesek valós időben nyomon követni a raktár tartalmát. Adminisztrátori joggal akár módosítás és törlés is eszközölhető.
+Az előre kiadott felhasználónév- és jelszókombinációval a felületre belépve elérhetővé válnak az adminfunkciók, mint új tétel felvétele, tétel adatainak módosítása, tétel törlése.
 
 ## Fogalomszótár
 **PC**: personal computer (személyi számítógép)  
