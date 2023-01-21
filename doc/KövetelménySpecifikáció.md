@@ -1,9 +1,9 @@
 # Követelmény specifikáció
 
 ## Áttekintés
-Egy olyan rendszer fejlesztését várjuk el, mely az ASD Kft. azaz a mi munkánkat könnyíti meg. Célunk ezzel a projekttel a régi raktározási programunk kiváltása, mely sajnos a jelenlegi technológiák mellett igencsak elavult. Karbantartása nem biztosított és az új hardvereken egyre nehezebb működtetni.\ 
-Szeretnénk, ha a dolgozóink elérnék a főraktár készleteit. Továbbá autentikációhoz szeretnénk kötni az egyéb módosító műveletek használatát.\
-Ez az új program a  gördülékeny munkát biztosítaná számunkra, mely nem csak sokkal gyorsabb és olajozottabb lenne, hanem a cégnek anyagi szempontból egy jó befektetésnek számítana. A tuladonunkban lévő számítástechnikai eszközök jobban kilennének használva.\
+Egy olyan rendszer fejlesztését várjuk el, mely az ASD Kft. azaz a mi munkánkat könnyíti meg. Célunk ezzel a projekttel a régi raktározási programunk kiváltása, mely sajnos a jelenlegi technológiák mellett igencsak elavult. Karbantartása nem biztosított és az új hardvereken egyre nehezebb működtetni.
+Szeretnénk, ha a dolgozóink elérnék a főraktár készleteit. Továbbá autentikációhoz szeretnénk kötni az egyéb módosító műveletek használatát.
+Ez az új program a  gördülékeny munkát biztosítaná számunkra, mely nem csak sokkal gyorsabb és olajozottabb lenne, hanem a cégnek anyagi szempontból egy jó befektetésnek számítana. A tuladonunkban lévő számítástechnikai eszközök jobban kilennének használva.
 Mivel a hazai piacon egy nagy cégnek számítunk és fontos számunkra az ügyfeleink véleménye, jelenlegi rendszerünk használatával attól félünk, hogy a jó hírnevünket kockáztatánk. Mint fentebb említettem a mostani program karbantartása már nem biztosított, így biztonsági szempontból sebezhetőek vagyunk.
 
 ## Jelenlegi helyzet
