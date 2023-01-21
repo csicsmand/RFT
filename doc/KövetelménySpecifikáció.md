@@ -7,7 +7,7 @@ Ez az új program a  gördülékeny munkát biztosítaná számunkra, mely nem c
 Mivel a hazai piacon egy nagy cégnek számítunk és fontos számunkra az ügyfeleink véleménye, jelenlegi rendszerünk használatával attól félünk, hogy a jó hírnevünket kockáztatánk. Mint fentebb említettem a mostani program karbantartása már nem biztosított, így biztonsági szempontból sebezhetőek vagyunk.
 
 ## Jelenlegi helyzet
-Az ASD Kft.-nél, sajnos jelenleg elég nehéz és kiszolgáltatott helyzetben vagyunk. Aktuális szoftverünk elavul, lassú, sebezhető és nehezen működtethető az új számítógépeken. Ez a program még 2004-ben készült, dolgozóink számára pedig egyre fejletebb PC-k állnak rendelkezésre, melyeken egyre körülményesebb megoldani ennek használatát. Habár fukcióit még ellátja, nem kap semmilyen frissítést. Az előző fejlesztőcéggel a karbantartási szerződés nem került meghosszabbításra és egyéb okok miatt már nem is fog.\
+Az ASD Kft.-nél, sajnos jelenleg elég nehéz és kiszolgáltatott helyzetben vagyunk. Aktuális szoftverünk elavul, lassú, sebezhető és nehezen működtethető az új számítógépeken. Ez a program még 2004-ben készült, dolgozóink számára pedig egyre fejletebb PC-k állnak rendelkezésre, melyeken egyre körülményesebb megoldani ennek használatát. Habár fukcióit még ellátja, nem kap semmilyen frissítést. Az előző fejlesztőcéggel a karbantartási szerződés nem került meghosszabbításra és egyéb okok miatt már nem is fog.
 Mivel hazai viszonylatban egy nagy értékesítő vállalatnak számítunk, így nem engedhetjük meg maguknak, hogy ilyen szoftvert használjunk. Az vezetőségünk és pénzügyi menedzsmentünk profitálóbbnak és hatékonyabbnak látta azt, ha egy új szoftvert rendelünk cégüktől. 
 
 ## Vágyálom rendszer
