@@ -58,6 +58,9 @@ Tétel törlése: Csak az admin használhatja ezt a funkciót. A tétel ID-ja me
 
 ## Funkcionális terv
 A rendszerben 2 szerepkört tudunk megkülönböztetni. Admint és Usert.
+
+![Használati esetek](img/hasznalatiEset.png "Csicsman Dominika")
+
 User:
 - Nem igényel bejelentkezést.
 - Le tudja kérdezni az adatokat.
