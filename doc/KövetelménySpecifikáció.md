@@ -69,3 +69,5 @@ Tehát a következőekből levonható a következtetés, hogy a legfontosabb az 
 PC: personal computer (személyi számítógép)  
 CRUD: CREATE, READ, UPDATE és DELETE műveletek összefogó neve  
 UX: User Experience
+Admin: az a regisztrált felhasználó, aki a megfelelő felhasználónévvel, illetve jelszóval bejelentkezve hozzáférhet magasabb szintű funkciókhoz
+Adminfunkciók: az admin számára elérhető egyedi funkciók: új tétel felvétele az adatbázisba, tétel törlése, tétel adatainak módosítása
