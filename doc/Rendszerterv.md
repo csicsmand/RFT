@@ -55,6 +55,10 @@ Tétel törlése: Csak az admin használhatja ezt a funkciót. A tétel ID-ja me
 |Kliens|K4|C# kliens kialakítása|1.0|A program felületének megtervezése UX szempontból. |
 |Kliens|K5|C# kliens megvalósítása|1.0|A program felületének megvalósítása. |
 |Jogosultság|K6|Jogosultság rendszer|1.0|Jogosultság rendszer a CRUD műveletekhez (Kivéve a lekérdezés).|
+|Kliens|K7|C# kliens megvalósítása|1.0|A menük megvalósítása. |
+|Kliens|K8|C# kliens megvalósítása|1.0|A bejelentkezés felület megvalósítása. |
+|Jogosultság|K9|Jogosultság rendszer|1.0|Jogosultság rendszer a CREATE, UPDATE, DELETE funkciókhoz.|
+|Jogosultság|K10|Jogosultság rendszer|1.0|Jogosultság rendszer a READ funkcióhoz.|
 
 ## Funkcionális terv
 A rendszerben 2 szerepkört tudunk megkülönböztetni. Admint és Usert.
