@@ -71,3 +71,5 @@ CRUD: CREATE, READ, UPDATE és DELETE műveletek összefogó neve
 UX: User Experience
 Admin: az a regisztrált felhasználó, aki a megfelelő felhasználónévvel, illetve jelszóval bejelentkezve hozzáférhet magasabb szintű funkciókhoz
 Adminfunkciók: az admin számára elérhető egyedi funkciók: új tétel felvétele az adatbázisba, tétel törlése, tétel adatainak módosítása
+Felhasználó (user): az a személy, akinek nincs regisztrációja, így csak a lekérdező alap funkciókhoz fér hozzá, jellemzően ilyen user esetünkben az az általános dolgozó, aki használja  rendszerünket
+Felhasználónév: az admin által bejelentkezéskor használt azonosító, ami megkülönbözteti őt a usertől, illetve ezáltal hozzáférhet több funkcióhoz is
