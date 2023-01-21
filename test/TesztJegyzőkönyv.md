@@ -38,3 +38,4 @@ Az API végpontok tesztelése során a Postman és a Fiddler csak GET kérést h
 |Termékek lekérdezése|Boros Balázs|2023.01.19.|Igen|Megfelelően működik|
 |Termék lekérdezése ID alapján|Boros Balázs|2023.01.20.|Igen|Megfelelően működik|
 |Új termék hozzáadása|Boros Balázs|2023.01.20.|Igen|Megfelelően működik|
+|Termék adatainak frissítése|Boros Balázs|2023.01.19.|Igen|Megfelelően működik|
