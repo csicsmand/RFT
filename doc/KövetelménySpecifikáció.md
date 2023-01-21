@@ -33,6 +33,9 @@ A rendszer felhasználói adatokat tárol, amit az Európai Unió területén a 
 - Tiltakozáshoz való jog
 - Automatikus döntéshozatal elutasításához való jog
 
+Kompatibilis operációs rendszer:
+- Windows
+
 Adatkezelési nyilatkozat:
 
 Az Adatkezelési ‌Nyilatkozat kialakítása során figyelembe vettük a vonatkozó hatályos jogszabályokat, illetve a fontosabb nemzetközi ajánlásokat. Ezekre megfelel az alábbi jogszabályoknak: Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény; Az elektronikus ‌hírközlésről szóló 2003. évi C. törvény; Az elektronikus kereskedelemről szóló 2001. évi CVIII. törvény előírásainak; Az "Online Privacy Alliance" ajánlásainak.
