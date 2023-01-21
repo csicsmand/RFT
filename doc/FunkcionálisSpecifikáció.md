@@ -8,7 +8,9 @@ Nem tervezünk több platformon való megjelenést, mivel nem tartjuk szüksége
 
 ## Jelenlegi helyzet
 Az ASD Kft. szeretné könyebbé és átláthatóbbá tenni dolgozói számára a főraktár készleteinek lekérdezését, rendelés esetén pedig módosítását. A jelenlegi szofverük elavult és lassú, időt szeretnének megspólni.
+Az ASD Kft. egy kiszolgáltatott helyzetben van, mivel semmilyen módon nem támogatja aktuális programját a fejlesztőcég karbantartási szerződés lejárta miatt.
 Új típusú hardvereken nehéz működtetni a szoftvert, mely lassú és működése nem túl megbízható ezáltal. Továbbá a cég számítógépeinek teljesítménye sincs ezáltal kihasználva.
+Habár aktuális rendszerük még ellátja feladatát, hosszútávon üzemeltetése enyhénszólva kockázatos. Így a lehető leghamarabb szükséges egy új rendszerre való átállás.
 
 ## Követelménylista
 |MODUL|ID|NÉV|V.|LEÍRÁS|
