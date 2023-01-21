@@ -6,6 +6,7 @@ A következőkben egy olyan rendszer fejlesztésén fogunk dolgozni, mely az ASD
 
 ## Jelenlegi helyzet
 Az ASD Kft. szeretné könyebbé és átláthatóbbá tenni dolgozói számára a főraktár készleteinek lekérdezését, rendelés esetén pedig módosítását. A jelenlegi szofverük elavult és lassú, időt szeretnének megspólni.
+Új típusú hardvereken nehéz működtetni a szoftvert, mely lassú és működése nem túl megbízható ezáltal. Továbbá a cég számítógépeinek teljesítménye sincs ezáltal kihasználva.
 
 ## Követelménylista
 |MODUL|ID|NÉV|V.|LEÍRÁS|
