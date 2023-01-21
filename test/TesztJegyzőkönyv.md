@@ -34,3 +34,5 @@ Az API végpontok tesztelése során a Postman és a Fiddler csak GET kérést h
 |Legördölő menü|Gasparovics Adrienn|2023.01.17.|Igen|Megfelelően működik|
 |Input box|Gasparovics Adrienn|2023.01.17.|Igen|Megfelelően működik|
 |Szerver kapcsolat|Gasparovics Adrienn|2023.01.17.|Igen|Megfelelően működik|
+|Termékek lekérdezése|Boros Balázs|2023.01.17.|Igen|Megfelelően működik|
+|Termékek lekérdezése|Boros Balázs|2023.01.19.|Igen|Megfelelően működik|
