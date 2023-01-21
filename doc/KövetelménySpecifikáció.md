@@ -73,3 +73,7 @@ Admin: az a regisztrált felhasználó, aki a megfelelő felhasználónévvel, i
 Adminfunkciók: az admin számára elérhető egyedi funkciók: új tétel felvétele az adatbázisba, tétel törlése, tétel adatainak módosítása
 Felhasználó (user): az a személy, akinek nincs regisztrációja, így csak a lekérdező alap funkciókhoz fér hozzá, jellemzően ilyen user esetünkben az az általános dolgozó, aki használja  rendszerünket
 Felhasználónév: az admin által bejelentkezéskor használt azonosító, ami megkülönbözteti őt a usertől, illetve ezáltal hozzáférhet több funkcióhoz is
+Jelszó: egy egyedi biztonsági kód, mely biztosítja, hogy csak az arra jogosult szemályek léphessenek be az adminisztrációs felületre
+ID: az adatbázisba került termék egyedi azonosítója, mely alapján lehet keresni, illetve lehet rá hovatkozni
+Név: az adatbázisba került termék neve, ezalapján is lehet rá hivatkozni, de nem ajánlott, mivel ez nem egyedi
+Ár: az adott tétel pénzben kifejezett értéke (esetünkben magyar forint)
